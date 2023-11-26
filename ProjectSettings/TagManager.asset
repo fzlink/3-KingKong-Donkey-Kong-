@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Stage
+    uniqueID: 2767787655
+    locked: 0
+  - name: Actors
+    uniqueID: 471832171
+    locked: 0
